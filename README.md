@@ -1,5 +1,7 @@
 # Data-visualisation
 
+<img width="870" height="533" alt="5387D483-DA7C-4942-8A53-F7C955236451" src="https://github.com/user-attachments/assets/6aec5857-6dd9-4914-b174-11dc7d5e0e09" />
+
 ---
 
 # 📊 Data Visualization Demo (Chart.js)
